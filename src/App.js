@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is showing docker changes in real time
+          I was changed on the Feature branch!
 
         </p>
         <a
